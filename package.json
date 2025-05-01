@@ -1,0 +1,15 @@
+{
+  "name": "projectc1",
+  "version": "1.0.0",
+  "description": "mon projet test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "moustaid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
